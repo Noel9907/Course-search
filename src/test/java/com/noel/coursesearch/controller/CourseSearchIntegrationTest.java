@@ -60,13 +60,13 @@ class CourseSearchIntegrationTest {
 
         // Insert test data
         List<CourseDocument> testCourses = List.of(
-                new CourseDocument("1", "Java Programming", "Learn Java programming fundamentals",
+                new CourseDocument("1", "Java Programming", List.of("java","programming"),"Learn Java programming fundamentals",
                         "Programming", CourseDocument.CourseType.COURSE, "6th-8th", 12, 15, 99.99,
                         OffsetDateTime.now().plusDays(5)),
-                new CourseDocument("2", "Art for Kids", "Creative art sessions for children",
+                new CourseDocument("2", "Art for Kids",List.of("art","kids"), "Creative art sessions for children",
                         "Art", CourseDocument.CourseType.ONE_TIME, "1st-3rd", 6, 9, 25.00,
                         OffsetDateTime.now().plusDays(2)),
-                new CourseDocument("3", "Science Club", "Weekly science experiments and discovery",
+                new CourseDocument("3", "Science Club",List.of("science","club"), "Weekly science experiments and discovery",
                         "Science", CourseDocument.CourseType.CLUB, "4th-6th", 9, 12, 15.00,
                         OffsetDateTime.now().plusDays(7))
         );

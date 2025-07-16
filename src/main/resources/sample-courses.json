@@ -2,6 +2,7 @@
   {
     "id": "1",
     "title": "Introduction to Algebra",
+    "suggest": ["algebra", "algabra", "algebr", "math", "mathematics", "equations", "expressions", "beginner math"],
     "description": "Learn the fundamentals of algebraic expressions, equations, and problem-solving techniques.",
     "category": "Math",
     "type": "COURSE",
@@ -14,6 +15,7 @@
   {
     "id": "2",
     "title": "Creative Writing Workshop",
+    "suggest": ["writing", "writeing", "storytelling", "composition", "creative", "author", "story", "essay"],
     "description": "Explore storytelling techniques, character development, and creative expression through writing.",
     "category": "Art",
     "type": "ONE_TIME",
@@ -26,6 +28,7 @@
   {
     "id": "3",
     "title": "Basic Chemistry Lab",
+    "suggest": ["chemistry", "kemistry", "chem", "science lab", "experiments", "atoms", "chemical reactions"],
     "description": "Hands-on chemistry experiments and introduction to atomic structure and chemical reactions.",
     "category": "Science",
     "type": "COURSE",
@@ -38,6 +41,7 @@
   {
     "id": "4",
     "title": "Chess Club",
+    "suggest": ["chess", "ches", "strategy", "board games", "tournament", "chess club", "chess lessons"],
     "description": "Weekly chess practice, strategy sessions, and friendly tournaments for all skill levels.",
     "category": "Strategy",
     "type": "CLUB",
@@ -50,6 +54,7 @@
   {
     "id": "5",
     "title": "Digital Photography Basics",
+    "suggest": ["photography", "fotography", "photo", "camera", "photoshop", "editing", "digital camera"],
     "description": "Learn composition, lighting, and basic photo editing using digital cameras and software.",
     "category": "Art",
     "type": "COURSE",
@@ -62,6 +67,7 @@
   {
     "id": "6",
     "title": "Geometry Fundamentals",
+    "suggest": ["geometry", "geomtry", "shapes", "angles", "math", "spatial reasoning", "proofs"],
     "description": "Study shapes, angles, proofs, and spatial reasoning in this comprehensive geometry course.",
     "category": "Math",
     "type": "COURSE",
@@ -74,6 +80,7 @@
   {
     "id": "7",
     "title": "Young Scientists Club",
+    "suggest": ["science", "sciense", "kids science", "experiments", "stem", "young scientists", "science fun"],
     "description": "Weekly experiments and science discussions for curious young minds.",
     "category": "Science",
     "type": "CLUB",
@@ -86,6 +93,7 @@
   {
     "id": "8",
     "title": "Spanish for Beginners",
+    "suggest": ["spanish", "español", "language", "beginner spanish", "learn spanish", "espanol", "foreign language"],
     "description": "Introduction to Spanish language with focus on conversation and basic grammar.",
     "category": "Language",
     "type": "COURSE",
@@ -98,6 +106,7 @@
   {
     "id": "9",
     "title": "Advanced Calculus",
+    "suggest": ["calculus", "calclus", "advanced math", "derivatives", "integrals", "math", "college math"],
     "description": "Differential and integral calculus with applications to real-world problems.",
     "category": "Math",
     "type": "COURSE",
@@ -110,6 +119,7 @@
   {
     "id": "10",
     "title": "Painting Techniques",
+    "suggest": ["painting", "paint", "art", "watercolor", "acrylic", "oil painting", "art class"],
     "description": "Explore watercolor, acrylic, and oil painting techniques in this hands-on art class.",
     "category": "Art",
     "type": "ONE_TIME",
@@ -122,6 +132,7 @@
   {
     "id": "11",
     "title": "Physics Laboratory",
+    "suggest": ["physics", "fysics", "lab", "experiments", "mechanics", "thermodynamics", "electromagnetism"],
     "description": "Experimental physics covering mechanics, thermodynamics, and electromagnetism.",
     "category": "Science",
     "type": "COURSE",
@@ -134,6 +145,7 @@
   {
     "id": "12",
     "title": "French Conversation",
+    "suggest": ["french", "français", "language", "conversation", "speaking", "francais", "foreign language"],
     "description": "Improve your French speaking skills through guided conversation practice.",
     "category": "Language",
     "type": "COURSE",
@@ -146,6 +158,7 @@
   {
     "id": "13",
     "title": "Robotics Club",
+    "suggest": ["robotics", "robots", "engineering", "programming", "stem", "robot club", "coding"],
     "description": "Build and program robots while learning engineering and programming concepts.",
     "category": "Technology",
     "type": "CLUB",
@@ -158,6 +171,7 @@
   {
     "id": "14",
     "title": "Music Theory Basics",
+    "suggest": ["music", "musik", "theory", "notes", "scales", "composition", "reading music"],
     "description": "Learn to read music notation, understand scales, and analyze musical compositions.",
     "category": "Music",
     "type": "COURSE",
@@ -170,6 +184,7 @@
   {
     "id": "15",
     "title": "Environmental Science",
+    "suggest": ["environment", "ecology", "science", "climate", "conservation", "nature", "earth science"],
     "description": "Study ecosystems, climate change, and environmental conservation methods.",
     "category": "Science",
     "type": "COURSE",
@@ -182,6 +197,7 @@
   {
     "id": "16",
     "title": "Drama Workshop",
+    "suggest": ["drama", "theater", "acting", "improvisation", "performance", "theatre", "play"],
     "description": "Explore acting techniques, improvisation, and character development.",
     "category": "Art",
     "type": "ONE_TIME",
@@ -194,6 +210,7 @@
   {
     "id": "17",
     "title": "Computer Programming",
+    "suggest": ["programming", "coding", "python", "software", "developer", "code", "computer science"],
     "description": "Introduction to programming concepts using Python and basic software development.",
     "category": "Technology",
     "type": "COURSE",
@@ -206,6 +223,7 @@
   {
     "id": "18",
     "title": "Statistics and Probability",
+    "suggest": ["statistics", "stats", "probability", "data", "analysis", "math", "numbers"],
     "description": "Learn statistical analysis, probability theory, and data interpretation.",
     "category": "Math",
     "type": "COURSE",
@@ -218,6 +236,7 @@
   {
     "id": "19",
     "title": "Book Club",
+    "suggest": ["books", "reading", "literature", "discussion", "novels", "book club", "reading group"],
     "description": "Monthly book discussions and literary analysis for young readers.",
     "category": "Literature",
     "type": "CLUB",
@@ -230,6 +249,7 @@
   {
     "id": "20",
     "title": "Biology Fundamentals",
+    "suggest": ["biology", "bioligy", "life science", "cells", "genetics", "organisms", "science"],
     "description": "Study cell structure, genetics, and basic biological processes.",
     "category": "Science",
     "type": "COURSE",
@@ -242,6 +262,7 @@
   {
     "id": "21",
     "title": "Guitar Lessons",
+    "suggest": ["guitar", "guitar class", "music", "instrument", "chords", "strings", "music lessons"],
     "description": "Learn basic guitar chords, strumming patterns, and simple songs.",
     "category": "Music",
     "type": "COURSE",
@@ -254,6 +275,7 @@
   {
     "id": "22",
     "title": "World History",
+    "suggest": ["history", "world", "civilizations", "historical", "ancient", "modern", "social studies"],
     "description": "Explore major civilizations, historical events, and cultural developments.",
     "category": "History",
     "type": "COURSE",
@@ -266,6 +288,7 @@
   {
     "id": "23",
     "title": "Cooking Club",
+    "suggest": ["cooking", "cook", "culinary", "food", "recipes", "baking", "kitchen"],
     "description": "Learn basic cooking skills and prepare simple, healthy meals.",
     "category": "Life Skills",
     "type": "CLUB",
@@ -278,6 +301,7 @@
   {
     "id": "24",
     "title": "Astronomy Workshop",
+    "suggest": ["astronomy", "stars", "planets", "space", "universe", "telescope", "cosmos"],
     "description": "Study planets, stars, and space exploration through hands-on activities.",
     "category": "Science",
     "type": "ONE_TIME",
@@ -290,6 +314,7 @@
   {
     "id": "25",
     "title": "Creative Dance",
+    "suggest": ["dance", "dancing", "movement", "ballet", "modern", "expression", "dance class"],
     "description": "Express yourself through movement and learn various dance styles.",
     "category": "Art",
     "type": "COURSE",
@@ -302,6 +327,7 @@
   {
     "id": "26",
     "title": "Web Design",
+    "suggest": ["web", "website", "html", "css", "development", "coding", "internet"],
     "description": "Learn HTML, CSS, and basic web development principles.",
     "category": "Technology",
     "type": "COURSE",
@@ -314,6 +340,7 @@
   {
     "id": "27",
     "title": "Photography Club",
+    "suggest": ["photography", "photos", "camera", "club", "pictures", "shooting", "photo club"],
     "description": "Weekly photography outings and critique sessions for photography enthusiasts.",
     "category": "Art",
     "type": "CLUB",
@@ -326,6 +353,7 @@
   {
     "id": "28",
     "title": "Pre-Algebra",
+    "suggest": ["prealgebra", "pre-algebra", "math", "beginner", "fractions", "equations", "basic math"],
     "description": "Prepare for algebra with integer operations, fractions, and basic equations.",
     "category": "Math",
     "type": "COURSE",
@@ -338,6 +366,7 @@
   {
     "id": "29",
     "title": "Public Speaking",
+    "suggest": ["speaking", "presentation", "communication", "speech", "debate", "confidence", "talk"],
     "description": "Develop confidence and skills in public speaking and presentation.",
     "category": "Communication",
     "type": "COURSE",
@@ -350,6 +379,7 @@
   {
     "id": "30",
     "title": "Origami Workshop",
+    "suggest": ["origami", "paper folding", "art", "craft", "japanese", "paper art", "creative"],
     "description": "Learn the art of paper folding with traditional and modern origami techniques.",
     "category": "Art",
     "type": "ONE_TIME",
@@ -362,6 +392,7 @@
   {
     "id": "31",
     "title": "Mandarin Chinese",
+    "suggest": ["mandarin", "chinese", "language", "putonghua", "learn chinese", "foreign language", "中文"],
     "description": "Introduction to Mandarin Chinese language and culture.",
     "category": "Language",
     "type": "COURSE",
@@ -374,6 +405,7 @@
   {
     "id": "32",
     "title": "Debate Club",
+    "suggest": ["debate", "argument", "public speaking", "discussion", "competition", "speech", "forensics"],
     "description": "Develop critical thinking and argumentation skills through structured debates.",
     "category": "Communication",
     "type": "CLUB",
@@ -386,6 +418,7 @@
   {
     "id": "33",
     "title": "Marine Biology",
+    "suggest": ["marine", "ocean", "biology", "sea life", "aquatic", "conservation", "oceanography"],
     "description": "Study ocean life, marine ecosystems, and conservation efforts.",
     "category": "Science",
     "type": "COURSE",
@@ -398,6 +431,7 @@
   {
     "id": "34",
     "title": "Pottery Making",
+    "suggest": ["pottery", "clay", "ceramics", "sculpture", "art", "wheel throwing", "hand building"],
     "description": "Create ceramic pieces using hand-building and wheel-throwing techniques.",
     "category": "Art",
     "type": "COURSE",
@@ -410,6 +444,7 @@
   {
     "id": "35",
     "title": "Game Design",
+    "suggest": ["game", "video games", "design", "development", "programming", "coding", "video game design"],
     "description": "Design and create simple video games using game development tools.",
     "category": "Technology",
     "type": "COURSE",
@@ -422,6 +457,7 @@
   {
     "id": "36",
     "title": "American History",
+    "suggest": ["history", "american", "usa", "united states", "social studies", "historical", "patriotic"],
     "description": "Study key events, figures, and themes in American history.",
     "category": "History",
     "type": "COURSE",
@@ -434,6 +470,7 @@
   {
     "id": "37",
     "title": "Piano Lessons",
+    "suggest": ["piano", "keyboard", "music", "instrument", "lessons", "keys", "music class"],
     "description": "Learn piano basics including technique, music reading, and repertoire.",
     "category": "Music",
     "type": "COURSE",
@@ -446,6 +483,7 @@
   {
     "id": "38",
     "title": "3D Modeling",
+    "suggest": ["3d", "modeling", "design", "animation", "blender", "maya", "computer graphics"],
     "description": "Create 3D objects and animations using modern modeling software.",
     "category": "Technology",
     "type": "COURSE",
@@ -458,6 +496,7 @@
   {
     "id": "39",
     "title": "Gardening Club",
+    "suggest": ["gardening", "garden", "plants", "flowers", "vegetables", "outdoor", "nature"],
     "description": "Learn about plants, gardening techniques, and sustainable growing practices.",
     "category": "Life Skills",
     "type": "CLUB",
@@ -470,6 +509,7 @@
   {
     "id": "40",
     "title": "Entrepreneurship",
+    "suggest": ["business", "entrepreneur", "startup", "commerce", "marketing", "finance", "economics"],
     "description": "Learn business fundamentals and develop entrepreneurial thinking skills.",
     "category": "Business",
     "type": "COURSE",
@@ -482,6 +522,7 @@
   {
     "id": "41",
     "title": "Mythology Studies",
+    "suggest": ["mythology", "myths", "legends", "greek", "norse", "egyptian", "folklore"],
     "description": "Explore myths and legends from various cultures around the world.",
     "category": "Literature",
     "type": "COURSE",
@@ -494,6 +535,7 @@
   {
     "id": "42",
     "title": "Archery Club",
+    "suggest": ["archery", "bow", "arrow", "target", "sport", "outdoor", "competition"],
     "description": "Learn archery fundamentals including safety, technique, and target practice.",
     "category": "Sports",
     "type": "CLUB",
@@ -506,6 +548,7 @@
   {
     "id": "43",
     "title": "Forensic Science",
+    "suggest": ["forensics", "crime", "investigation", "csi", "evidence", "detective", "science"],
     "description": "Learn crime scene investigation techniques and forensic analysis methods.",
     "category": "Science",
     "type": "COURSE",
@@ -518,6 +561,7 @@
   {
     "id": "44",
     "title": "Yoga and Mindfulness",
+    "suggest": ["yoga", "mindfulness", "meditation", "relaxation", "stretching", "wellness", "peace"],
     "description": "Practice yoga poses and mindfulness techniques for physical and mental well-being.",
     "category": "Health",
     "type": "COURSE",
@@ -530,6 +574,7 @@
   {
     "id": "45",
     "title": "Economics Basics",
+    "suggest": ["economics", "econ", "finance", "money", "business", "market", "financial literacy"],
     "description": "Introduction to economic principles, markets, and financial literacy.",
     "category": "Business",
     "type": "COURSE",
@@ -542,6 +587,7 @@
   {
     "id": "46",
     "title": "Jewelry Making",
+    "suggest": ["jewelry", "beads", "craft", "accessories", "design", "creative", "art"],
     "description": "Create beautiful jewelry using various materials and techniques.",
     "category": "Art",
     "type": "ONE_TIME",
@@ -554,6 +600,7 @@
   {
     "id": "47",
     "title": "Latin Language",
+    "suggest": ["latin", "language", "ancient", "romance languages", "classical", "etymology", "linguistics"],
     "description": "Study Latin grammar, vocabulary, and its influence on modern languages.",
     "category": "Language",
     "type": "COURSE",
@@ -566,6 +613,7 @@
   {
     "id": "48",
     "title": "Film Studies",
+    "suggest": ["film", "movie", "cinema", "directing", "production", "analysis", "hollywood"],
     "description": "Analyze film techniques, genres, and the history of cinema.",
     "category": "Art",
     "type": "COURSE",
@@ -578,6 +626,7 @@
   {
     "id": "49",
     "title": "Volunteering Club",
+    "suggest": ["volunteer", "community service", "helping", "charity", "social work", "giving back", "nonprofit"],
     "description": "Participate in community service projects and learn about social responsibility.",
     "category": "Life Skills",
     "type": "CLUB",
@@ -590,6 +639,7 @@
   {
     "id": "50",
     "title": "Meteorology",
+    "suggest": ["weather", "meteorology", "climate", "forecasting", "storms", "atmosphere", "science"],
     "description": "Study weather patterns, climate systems, and atmospheric science.",
     "category": "Science",
     "type": "COURSE",
