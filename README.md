@@ -58,7 +58,7 @@ curl http://localhost:8080/api/health
 
 ### Search Endpoint
 
-**GET** `/api/search`
+**GET** `http://localhost:8080/api/search`
 
 #### Query Parameters
 
