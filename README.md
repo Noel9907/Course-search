@@ -22,7 +22,7 @@ A Spring Boot application that provides a REST API for searching courses stored 
 
 ### 1. Start Elasticsearch
 
-Make sure your `docker-compose.yml` is configured and run:
+run:
 
 ```bash
 docker-compose up -d
