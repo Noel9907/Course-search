@@ -38,7 +38,16 @@ public class CourseSearchService {
 
         // Build the boolean query
         BoolQuery.Builder boolQueryBuilder = new BoolQuery.Builder();
-
+        if ((request.getQ() == null || request.getQ().trim().isEmpty()) &&
+                request.getMinAge() == null &&
+                request.getMaxAge() == null &&
+                (request.getCategory() == null || request.getCategory().trim().isEmpty()) &&
+                (request.getType() == null || request.getType().trim().isEmpty()) &&
+                request.getMinPrice() == null &&
+                request.getMaxPrice() == null &&
+                request.getStartDate() == null) {
+            return new SearchResponse();
+        }
         // Full-text search on title and description
         if (request.getQ() != null && !request.getQ().trim().isEmpty()) {
             MultiMatchQuery multiMatchQuery = MultiMatchQuery.of(m -> m

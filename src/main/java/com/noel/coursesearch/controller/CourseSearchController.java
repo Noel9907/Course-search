@@ -43,6 +43,7 @@ public class CourseSearchController {
         return ResponseEntity.ok(response);
     }
 
+
     @GetMapping("/health")
     public ResponseEntity<String> health() {
         return ResponseEntity.ok("Course Search API is running");
